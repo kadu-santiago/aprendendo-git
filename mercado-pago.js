@@ -1,3 +1,4 @@
 const m = "mecado pago"
-const d = "devedor"
-console.log(m)
+const d = "devedo" 
+const p = "pagamento"
+console.log(m, p)
